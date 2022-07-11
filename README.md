@@ -2,8 +2,8 @@
 This module use NEXTJS and EXPRESSJS to built a module manage task.
 
 ## Folders
-    - `./express` this is folder for backend (API)
-    - `./nextjs` this is folder for frontend (API) 
+    - ./express this is folder for backend (API)
+    - ./react-nextjs this is folder for frontend (API) 
 
 ## ExpressJS
 ### How to setup ?
