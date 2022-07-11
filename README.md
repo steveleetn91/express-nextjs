@@ -7,8 +7,14 @@ This module use NEXTJS and EXPRESSJS to built a module manage task.
 
 ## ExpressJS
 ### How to setup ?
-First step you need copy `env.example` to `.env`. Don't forget config MongoDB connect at `.env`. Then run 
-    - npm install
+First step you need copy `env.example` to `.env`. Don't forget config MongoDB connect at `.env`. Then run `npm install`
 ### How to start? 
-To start you need run : 
-    - npm run start
+To start you need run `npm run start`
+## NextJS 
+Run `npm install`
+### How to start development? 
+To start you need run `npm run dev`
+### How to start production? 
+To start you need run `npm run build`, next step start server `npm run start`
+### Note 
+If you wanna changed API HOST. You are really can do it at `next.config.js`
