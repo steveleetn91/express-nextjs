@@ -6,11 +6,16 @@ This module use NEXTJS and EXPRESSJS to built a module manage task.
     - ./react-nextjs this is folder for frontend (API) 
 
 ## ExpressJS
+### Root
+    ./express
 ### How to setup ?
 First step you need copy `env.example` to `.env`. Don't forget config MongoDB connect at `.env`. Then run `npm install`
 ### How to start? 
 To start you need run `npm run start`
 ## NextJS 
+### Root
+    ./react-nextjs
+### How to setup?
 Run `npm install`
 ### How to start development? 
 To start you need run `npm run dev`
